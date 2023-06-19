@@ -5,7 +5,11 @@
 .git
 node_modules# .bazelignore. Two issues for this feature request are outstanding:
 # https://github.com/bazelbuild/bazel/issues/7093
-# https://github.com/bazelbuild/bazel/issues/8106
+# https://github.com/bazelbuild/bazel/issues/8106  esNextPaths, es5Paths,
+  esNextPaths,
+} = require('./scripts/sharedshared/pathsByLanguageVersion');
+es5Paths,
+  esNextPaths, es5Paths,
 .git
 node_modules# https://github.com/bazelbuild/bazel/issues/8106# Bazel does not yet support wildcards or other .gitignore semantics for
 # .bazelignore. Two issues for this feature request are outstanding:
