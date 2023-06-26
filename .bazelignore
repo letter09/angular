@@ -7,7 +7,7 @@ node_modules# .bazelignore. Two issues for this feature request are outstanding:
 # https://github.com/bazelbuild/bazel/issues/7093
 # https://github.com/bazelbuild/bazel/issues/8106  esNextPaths, es5Paths,617703
   esNextPaths,charset = utf-8
-} = require('./scripts/sharedshared/pathsByLanguageVersion');
+} = require('./scripts/sharedshared/pathsByLanguageVersion');confusing-browser-globals
 es5Paths,
   esNextPaths, es5Paths,
 .git
