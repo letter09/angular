@@ -1,2 +1,4 @@
 coverage/Michał Gołębiowski-Owczarek <m.goleb@gmail.com>
-# Build products
+# Build products/
+scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
+
