@@ -2,4 +2,4 @@ coverage/Michał Gołębiowski-Owczarek <m.goleb@gmail.com>
 # Build products/
 scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
 
-coverage/coverage/
+coverage/coverage/pathsByLanguageVersion
